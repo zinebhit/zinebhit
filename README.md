@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SecuProject**
 
-- 🌱 I’m currently learning **Data anonymisation tools & Web Frameworks**
+- 🌱 I’m currently learning **Data anonymization tools & Web Frameworks**
 
 - 📫 Reach me on **hitaitzineb@gmail.com**
 
